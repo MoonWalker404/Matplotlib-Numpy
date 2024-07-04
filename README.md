@@ -73,5 +73,5 @@ Matplotlib распространяется под лицензией Matplotlib
 Контакты
 Если у вас возникли вопросы или предложения по улучшению данных программ, 
 вы можете связаться со мной по следующим каналам:
-Email: example@email.com
-GitHub: https://github.com/your-username
+Email: crossbeat71@gmail.com
+GitHub: https://github.com/MoonWalker404
